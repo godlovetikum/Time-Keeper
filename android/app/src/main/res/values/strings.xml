@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimeKeeper</string>
+    <string name="accessibility_label">TimeKeeper Blocker</string>
+    <string name="accessibility_desc">Detects when a tracked app is in the foreground so TimeKeeper can show the blocking overlay when your timer is up.</string>
+</resources>
